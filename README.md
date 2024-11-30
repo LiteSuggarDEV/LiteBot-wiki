@@ -2,7 +2,6 @@
 
 ![lt](https://github.com/user-attachments/assets/cea6ea42-6c01-4e8f-8960-0cfffd301280)
 
-
 ## 开始
 LiteBot是一个基于[Nonebot](https://nonebot.dev)开发的**公益免费**的QQ bot。是一款多功能的工具类型机器人，提供丰富的指令以增强群聊体验。它支持多种实用功能，从服务器状态查询到图像识别等，能够帮助用户更高效地互动和获取信息。  
 
@@ -71,6 +70,10 @@ LiteBot是一个基于[Nonebot](https://nonebot.dev)开发的**公益免费**的
 
 #### **/other** 异常菜单
 此功能菜单**不固定**，如果有出现问题都会挪到这里来。
+
+## 被动功能
+- bilibili链接解析
+- github仓库解析
 
 ## 获取帮助  
 加入我们的社区群：**1002495699**，与其他用户交流并获取更多支持。  
