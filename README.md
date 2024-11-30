@@ -36,7 +36,7 @@ LiteBot是一个基于[Nonebot](https://nonebot.dev)开发的**公益免费**的
 - **/killnailong `<enable|disable>`**: 开启/关闭群内贝利亚安全卫士功能  
 - **/msgsafe**: 违禁词/聊天检测   
   - 注意：违禁词列表将以 Base64 编码发送，请自行解码。  
-  - 以下是**子选项说明**：
+  *以下是**子选项说明***：
   - **system**: 使用系统词库  
   - **custom**: 使用自定义词库  
   - **mixed**: 使用系统 + 自定义词库  
@@ -67,6 +67,24 @@ LiteBot是一个基于[Nonebot](https://nonebot.dev)开发的**公益免费**的
 - **/surprise** :好 康 的
 - **/night** :深夜福利（）
 - **/round** :旋转两圈半
+#### **/web** LiteBot Web功能菜单  
+
+- **/ping `<host>`**: Ping一个主机  
+- **/ping-force `<host>`**: Ping一个主机（不进行地址检查）  
+- **/whois `<domain>`**: 查询一个域名的whois  
+- **/ipinfo `<IP>`**: 查询一个IP的信息  
+- **/getip `<host>`**: 获取一个域名的IPV4（A记录）  
+- **/wget `<address>`**: 获取一个地址，并获取响应内容  
+  *可选参数:*   
+  - `--tls-safe`: 禁用不安全的TLS版本  
+  - `--header({请求头})`  
+- **/ICP `<domain>`**: 查询域名ICP备案信息  
+- **/nmap `<host>` [端口范围（比如 1-023）（可选）]**: 扫描一个地址的端口，输出有延迟  
+- **/port `<host:port>`**: 检查一个端口是否畅通  
+- **/nslookup `<host>`**: 查询一个域名/子域名的全部记录  
+- **/monitor add `[ping|get|mc_java|mc_be]` `<host>`**: 创建一个探针（聊群/私聊）  
+- **/monitor del `<host>` `[ping|get|mc_java|mc_be]`**: 删除一个探针  
+- **/mailto `<address>` `<subject>` `<content>`**: 发送邮件  
 
 #### **/other** 异常菜单
 此功能菜单**不固定**，如果有出现问题都会挪到这里来。
@@ -74,6 +92,9 @@ LiteBot是一个基于[Nonebot](https://nonebot.dev)开发的**公益免费**的
 ## 被动功能
 - bilibili链接解析
 - github仓库解析
+
+## LiteBot API
+正在开发中......
 
 ## 获取帮助  
 加入我们的社区群：**1002495699**，与其他用户交流并获取更多支持。  
