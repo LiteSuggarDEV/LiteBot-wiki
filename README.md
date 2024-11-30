@@ -1,8 +1,7 @@
 # LiteBot Wiki（For LiteBot V1.12 Full）
 
-<div style="text-align:center;">
-    <img src="https://www.helloimg.com/i/2024/11/30/674ad59224b62.jpg" alt="LiteBot LOGO" width="300">
-</div>
+![lt](https://github.com/user-attachments/assets/cea6ea42-6c01-4e8f-8960-0cfffd301280)
+
 
 ## 开始
 LiteBot是一个基于[Nonebot](https://nonebot.dev)开发的**公益免费**的QQ bot。是一款多功能的工具类型机器人，提供丰富的指令以增强群聊体验。它支持多种实用功能，从服务器状态查询到图像识别等，能够帮助用户更高效地互动和获取信息。  
