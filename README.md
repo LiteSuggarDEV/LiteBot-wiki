@@ -1,4 +1,5 @@
 # LiteBot Wiki（For LiteBot V1.12 Full）
+> 旧版LiteBot已不再维护！
 
 ![lt](https://github.com/user-attachments/assets/cea6ea42-6c01-4e8f-8960-0cfffd301280)
 
